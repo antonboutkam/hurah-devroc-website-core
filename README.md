@@ -1,16 +1,16 @@
 # Website Core
 
-`devroc/website-core` is de gedeelde PHP-basis voor zelfstandige websites.
+`hurah/devroc-website-core` is de gedeelde PHP-basis voor zelfstandige websites.
 Het bevat geen routes, content, database of CMS. Controllers en Twig-views blijven
 in de eigen applicatie. Vereist PHP 8.3 of hoger binnen PHP 8.
 
 ## Installeren
 
-De eerste release is `v0.1.0-beta.1`. Nadat de publieke repository op Packagist is
+De huidige beta is `v0.1.0-beta.2`. Nadat de publieke repository op Packagist is
 geregistreerd, installeer je die expliciet met:
 
 ```bash
-composer require devroc/website-core:0.1.0-beta.1
+composer require hurah/devroc-website-core:0.1.0-beta.2
 ```
 
 Dit commando veronderstelt publicatie; een lokale tag alleen maakt het package

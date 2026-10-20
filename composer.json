@@ -1,5 +1,5 @@
 {
-    "name": "devroc/website-core",
+    "name": "hurah/devroc-website-core",
     "description": "Gedeelde opstart, Twig en lokale ontwikkelserver voor de websitetemplates.",
     "type": "library",
     "license": "0BSD",

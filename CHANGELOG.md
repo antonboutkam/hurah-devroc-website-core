@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.0-beta.2 — 2026-10-20
+
+- Composer-packagenaam gewijzigd naar `hurah/devroc-website-core`.
+- PHP-namespace `DevRoc\WebsiteCore` en de API blijven ongewijzigd.
+
 ## 0.1.0-beta.1 — 2026-10-20
 
 Eerste beta van `devroc/website-core`.
